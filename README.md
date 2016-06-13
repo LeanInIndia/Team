@@ -6,7 +6,7 @@
 |1|Ankita Shukla|2016-Present|
 |2|Annu Joshi|2016-Present|
 |3|Apoorva Bhalla|2016-Present|
-|4|Arumima Sharma|2016-Present|
+|4|Arunima Sharma|2016-Present|
 |5|Deepthi Meduri|2016-Present|
 |6|Diksha Ahi|2016-Present|
 |7|Divya Upadhyay|2016-Present|
